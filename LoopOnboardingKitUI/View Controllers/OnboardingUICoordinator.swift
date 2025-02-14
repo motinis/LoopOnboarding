@@ -379,6 +379,9 @@ extension OnboardingUICoordinator: TherapySettingsViewModelDelegate {
             maximumBasalScheduleEntryCount: maximumBasalScheduleEntryCount
         )
     }
+
+    func updateCurrentProfileName() {
+    }
 }
 
 
